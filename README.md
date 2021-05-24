@@ -140,3 +140,19 @@ Save icon: allows the user to directly save the plots from the GUI
 Magnifying glasses: allow the user to zoom in and out 
 Home icon: returns the plot to the orginal scaling and position cenetered
 around the image or data 
+
+
+********************************************
+Rights and Permisisons
+
+OCTAVA employs the following existing software packages
+
+1. ImageJ (pulblicly available) 
+ ImageJ (http://rsb.info.nih.gov/ij/) is a public domain Java image processing program inspired by NIH Image for the Macintosh. It runs, either as an online applet or as a downloadable application, on any computer with a Java 1.1 or later virtual machine. Downloadable distributions are available for Windows, Mac OS, Mac OS X and Linux. The author, Wayne Rasband (wayne@codon.nih.gov), is at the Research Services Branch, National Institute of Mental Health, Bethesda, Maryland, USA.
+ 
+2. Angiogenesis analyzer in ImageJ  
+Written by Gilles Carpentier, 2008. The macro is available at http://rsb.info.nih.gov/ij/macros/toolsets/Dot%20Blot%20Analyzer.txt and more information can be found at http://image.bio.methods.free.fr/dotblot.html). 
+
+3. ImageJ-MATLAB package 
+Freely available extension to ImageJ2 (http://imagej.net/Downloads). Installation and use instructions available at http://imagej.net/MATLAB_Scripting. Tested with ImageJ 2.0.0-rc-54, Java 1.8.0_66 and MATLAB R2015b. More information is available at https://doi.org/10.1093/bioinformatics/btw681. 
+
