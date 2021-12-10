@@ -12,22 +12,29 @@ System Requirements
 MATLAB APP version: 
 MATLAB version must be 2019 or more recent
 MATLAB toolboxes required: 
--Fuzzy Logic toolbox 
+-Fuzzy logic toolbox 
+-Statistics and machine learning toolbox
 
 Standalone version: 
 MATLAB runtime environment 2020b 
 
+Fully compiled softare available at https://sourceforge.net/projects/octava/
+
 *******************************************
 *******************************************
-Installation instructions 
-For a pre-compiled standalone version, please contact gavuntracht at Gmail dot com. The pre-compiled version can be installed automatically by running the installation file that we will provide. 
-For the GitHub version:
+Installation instructions (GitHub version Only)
+
 1.	Download OCTAVA.mlprj and the folder scripts into your local directory
 2.	Copy the ImageJ/FIJI installation and source files into your directory 
 	If you are downloading the latest version of ImageJ, you may need to update the copoytoImgPlus macro. 
 	update copytoImgPlus in path .../ImageJ/Fiji/scripts by pulling: https://github.com/fiji/fiji/blob/master/scripts/copytoImgPlus.m
 3.	Save mij.jar and imagej-matlab-0.7.2 in the ImageJ folder
 4.	Save OCTAVA.ijm into the folder ...ImageJ\Fiji\macros\OCTAVA Tools. You may need to create the folder named ¨OCTAVA Tools¨.
+
+
+Installation instructions (Sourceforge)
+Download and run the relevant installer 
+
 
 *******************************************
 *******************************************
