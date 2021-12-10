@@ -4,10 +4,14 @@ This respoitory contains all the sourcecode required to run the OCTAVA software
 
 In order to install the software for editing, please follow the following instructions: 
 
-1. Downoald OCTAVA.mlprj and the folder sripts into your local directory
-2. Copy the ImageJ installation and source files into your directory 
+1. Downoald OCTAVA.mlapp and the folder sripts into your local directory
+2. Copy the ImageJ/FIJI installation and source files into your directory 
+    If you are downloading the latest version of ImageJ, you may need to update the copoytoImgPlus macro.
+    update copytoImgPlus
+    in path .../ImageJ/Fiji/scripts by pulling:
+    https://github.com/fiji/fiji/blob/master/scripts/copytoImgPlus.m
 3. Save mij.jar and imagej-matlab-0.7.2 in the ImageJ folder
-4. Save OCTAVA.ijm into the folder ...ImageJ\Fiji\macros\OCTAVA Tools
+4. Save OCTAVA.ijm into the folder ...ImageJ\Fiji\macros\OCTAVA Tools. You may need to create the folder named ¨OCTAVA Tools¨. 
 
 *******************************************
 Pre-compiled MATLAB app and standalone versions of OCTAVA are available upon request 
