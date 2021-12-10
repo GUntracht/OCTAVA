@@ -14,8 +14,7 @@ In order to install the software for editing, please follow the following instru
 4. Save OCTAVA.ijm into the folder ...ImageJ\Fiji\macros\OCTAVA Tools. You may need to create the folder named ¨OCTAVA Tools¨. 
 
 *******************************************
-Pre-compiled MATLAB app and standalone versions of OCTAVA are available upon request 
-from Gavrielle by email: gavuntracht at gmail dot com 
+Pre-compiled MATLAB app and standalone versions of OCTAVA are available at https://sourceforge.net/projects/octava/
 
 
 ********************************************
