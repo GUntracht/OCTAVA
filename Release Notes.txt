@@ -1,0 +1,43 @@
+2021-09-01
+
+Initial release 
+
+2021-10-05
+
+-Added additional metrics related to the histograms including: 
+	-variance
+	-skewness
+	-kurtosis 
+	-mean and median length 
+
+2022-02-15
+
+-Added new fundtionality for retinal analysis
+    -Measurement of foveal avascular zone 
+    -Regional analysis 
+
+2022-03-15
+-Reimplemented manual initial ROI selection for FAZ calculation 
+-Added FD_300 metric 
+-Fixed some bugs related to binarization and resizing 
+
+2022-03-29
+-Bug fix related to underscores in filenams
+-Saving of images with FD_300 
+
+2022-05-03
+More bug fizes related to file naming 
+
+2022-06-10
+Fixed bug related to display of branchpoint density
+Added new method for regional analysis based on circular regions 
+
+2022-09-01
+New version! 2.0 which no longer has dependance on ImageJ. All functions
+have been transfered to MATLAB. batch processing not yet implemented. 
+
+2022-10-17
+Batch processing implemented. New method for initializing FAZ contour. 
+
+2023-07-17
+Finalized version for retinal analysis paper 
