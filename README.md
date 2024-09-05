@@ -1,10 +1,24 @@
 # OCTAVA
 
 This respoitory contains all the sourcecode required to run the OCTAVA software 
+OCTAVA is available free for use under an MIT licence. If you use this software in your research, please cite the following papers: 
 
-In order to install the software for editing, please follow the following instructions: 
+Untracht, G.R., Durkee, M.S., Zhao, M. et al. Towards standardising retinal OCT angiography image analysis with open-source toolbox OCTAVA. Sci Rep 14, 5979 (2024). https://doi.org/10.1038/s41598-024-53501-6
 
-1. Downoald OCTAVA.mlapp and the folder sripts into your local directory
+Untracht GR, Matos RS, Dikaios N, Bapir M, Durrani AK, Butsabong T, et al. (2021) OCTAVA: An open-source toolbox for quantitative analysis of optical coherence tomography angiography images. PLoS ONE 16(12): e0261052. https://doi.org/10.1371/journal.pone.0261052
+
+This software was last updated in January 2024
+
+In order to install the latest version of the software for editing, please follow the following instructions: 
+
+1. Downoald OCTAVA_2p0.mlapp and the folder scripts into your local directory
+
+
+
+
+For the original version: 
+
+1. Downoald OCTAVA.mlapp and the folder scripts into your local directory
 2. Copy the ImageJ/FIJI installation and source files into your directory 
     If you are downloading the latest version of ImageJ, you may need to update the copoytoImgPlus macro.
     update copytoImgPlus
